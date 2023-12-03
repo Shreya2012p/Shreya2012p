@@ -1,4 +1,4 @@
-#  :
+# ✨ABOUT ME :
 Hi 👋<br>I'm K.G.SHREYA<br><br>🔭 I’m currently working on projects on Image Processing(C++) and Web Projects(FULLSTACK DEVELOPER)<br>🌱 I’m curious to learn new things every day.<br>👯 I’m looking to collaborate in deep learning and reinforcement learning related projects.<br>🤔 I’m looking for new projects using some interesting technologies.<br>💬 Ask me about Tech.<br>
 
 ## 🌐 Socials:
