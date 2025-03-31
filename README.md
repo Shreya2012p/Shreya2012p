@@ -1,4 +1,10 @@
 ![Cream Minimalist Corporate Personal Profile LinkedIn Banner (1)](https://github.com/Shreya2012p/Shreya2012p/assets/96654167/ad932dc2-3c3e-4852-962a-93361c1a435e)
+
+<h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/kgshreya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="jyot" height="200" width="200" /></a> 
+</p>
+  
 Hi 👋<br>I'm K.G.SHREYA<br><br>🔭 I’m currently working on projects on Image Processing(C++) and Web Projects(FULLSTACK DEVELOPER)<br>🌱 I’m curious to learn new things every day.<br>👯 I’m looking to collaborate in deep learning and reinforcement learning related projects.<br>🤔 I’m looking for new projects using some interesting technologies.<br>💬 Ask me about Tech.<br>
 
 ## 🌐 Socials:
