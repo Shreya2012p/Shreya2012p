@@ -3,7 +3,8 @@
 <h2 align="center">Leetcode Info<h2>  
 <p align="center">
   <a href="https://leetcode.com/kgshreya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202503.gif" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/kgshreya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a> 
+  <a href="https://leetcode.com/kgshreya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/kgshreya/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/202504.gif" alt="jyot" height="200" width="200" /></a>
 </p>
   
 Hi 👋<br>I'm K.G.SHREYA<br><br>🔭 I’m currently working on projects on Image Processing(C++) and Web Projects(FULLSTACK DEVELOPER)<br>🌱 I’m curious to learn new things every day.<br>👯 I’m looking to collaborate in deep learning and reinforcement learning related projects.<br>🤔 I’m looking for new projects using some interesting technologies.<br>💬 Ask me about Tech.<br>
